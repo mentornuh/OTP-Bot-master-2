@@ -1,0 +1,9 @@
+{
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-19",
+            "path": "/Users/david/Documents/vcode/graalvm-ce-java19-22.3.1/Contents/Home",
+            "default": true
+        }
+    ]
+}
